@@ -1,4 +1,4 @@
-# [My London Trip]
+# My London Trip
 
 ![Page Layout](img/aaa.png)
 
