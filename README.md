@@ -1,4 +1,6 @@
-# [My London Trip](img/aaa.png)
+# [My London Trip]
+
+![Page Layout](img/aaa.png)
 
 ## Overview
 This project is a simple HTML website that details a personal trip to London. It includes photos, a budget table, a checklist of activities, and useful information.
