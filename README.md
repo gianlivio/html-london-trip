@@ -1,4 +1,4 @@
-# My London Trip (Immagine 2024-07-06 121341.png)
+# My London Trip 
 
 ## Overview
 This project is a simple HTML website that details a personal trip to London. It includes photos, a budget table, a checklist of activities, and useful information.
